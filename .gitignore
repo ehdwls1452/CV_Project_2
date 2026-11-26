@@ -1,0 +1,15 @@
+# 데이터: 재배포 조건 + 용량 문제로 업로드하지 않음 (README에 다운로드 방법 안내)
+data/
+
+# 모델 가중치 (용량 큼)
+*.pt
+*.pth
+
+# 가상환경 / 캐시
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# API 키 (절대 업로드 금지)
+.env
