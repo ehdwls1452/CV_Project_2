@@ -1,0 +1,13 @@
+{
+  "tag": "base",
+  "strategy": "scratch",
+  "best_epoch": 10,
+  "best_val_macro_f1": 0.8635,
+  "epochs_run": 15,
+  "total_min": 37.0,
+  "lr": 0.001,
+  "batch_size": 32,
+  "max_epochs": 30,
+  "patience": 5,
+  "device": "mps"
+}

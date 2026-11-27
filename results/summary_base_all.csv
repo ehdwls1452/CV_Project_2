@@ -1,0 +1,5 @@
+tag,strategy,best_epoch,best_val_macro_f1,epochs_run,total_min,lr,batch_size,max_epochs,patience,device
+base,feature_extraction,12,0.8794,17,18.5,0.001,32,30,5,mps
+base,full_ft,1,0.9317,6,20.9,0.0001,32,30,5,mps
+base,partial_ft,4,0.9343,9,15.5,0.0001,32,30,5,mps
+base,scratch,10,0.8635,15,37.0,0.001,32,30,5,mps
