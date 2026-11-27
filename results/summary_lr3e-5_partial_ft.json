@@ -1,0 +1,13 @@
+{
+  "tag": "lr3e-5",
+  "strategy": "partial_ft",
+  "best_epoch": 14,
+  "best_val_macro_f1": 0.9378,
+  "epochs_run": 19,
+  "total_min": 30.0,
+  "lr": 3e-05,
+  "batch_size": 32,
+  "max_epochs": 30,
+  "patience": 5,
+  "device": "mps"
+}

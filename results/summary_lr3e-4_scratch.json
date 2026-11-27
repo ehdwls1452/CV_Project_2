@@ -1,0 +1,13 @@
+{
+  "tag": "lr3e-4",
+  "strategy": "scratch",
+  "best_epoch": 5,
+  "best_val_macro_f1": 0.851,
+  "epochs_run": 10,
+  "total_min": 30.7,
+  "lr": 0.0003,
+  "batch_size": 32,
+  "max_epochs": 30,
+  "patience": 5,
+  "device": "mps"
+}
