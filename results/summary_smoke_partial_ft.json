@@ -1,0 +1,13 @@
+{
+  "tag": "smoke",
+  "strategy": "partial_ft",
+  "best_epoch": 2,
+  "best_val_macro_f1": 0.9176,
+  "epochs_run": 2,
+  "total_min": 2.9,
+  "lr": 3e-05,
+  "batch_size": 32,
+  "max_epochs": 2,
+  "patience": 5,
+  "device": "mps"
+}
