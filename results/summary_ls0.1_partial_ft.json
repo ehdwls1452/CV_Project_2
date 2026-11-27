@@ -1,0 +1,13 @@
+{
+  "tag": "ls0.1",
+  "strategy": "partial_ft",
+  "best_epoch": 5,
+  "best_val_macro_f1": 0.9265,
+  "epochs_run": 10,
+  "total_min": 14.4,
+  "lr": 3e-05,
+  "batch_size": 32,
+  "max_epochs": 30,
+  "patience": 5,
+  "device": "mps"
+}
