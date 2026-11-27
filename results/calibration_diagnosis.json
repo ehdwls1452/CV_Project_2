@@ -1,0 +1,8 @@
+{
+  "model": "lr3e-5_partial_ft",
+  "best_T": 1.65,
+  "nll_T1": 0.2647,
+  "nll_bestT": 0.2229,
+  "ece_T1": 0.031,
+  "ece_bestT": 0.0161
+}
